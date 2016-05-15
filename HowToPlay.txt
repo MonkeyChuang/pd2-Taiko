@@ -1,0 +1,12 @@
+Introduction to this game:
+	Rule:
+		You have only 30 second to eliminate the moving drums.
+		You'll get 10 or 5 score if you eliminate one drum.
+		The number of score you get depends on the timing you
+		press the corresponding button to eliminate them.
+
+	KeyBoard Function:
+		Key-D or Key-K : press to eliminate Blue drum
+		key-F or Key-J : press to eliminate Red drum
+		Key-R : press to restart
+		Key-Q : press to go back to menu
