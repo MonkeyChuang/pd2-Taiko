@@ -17,12 +17,14 @@ SOURCES += main.cpp\
         mainwindow.cpp \
     taiko.cpp \
     drumeffect.cpp \
-    drum.cpp
+    drum.cpp \
+    dialog.cpp
 
 HEADERS  += mainwindow.h \
     taiko.h \
     drumeffect.h \
-    drum.h
+    drum.h \
+    dialog.h
 
 FORMS    += mainwindow.ui
 

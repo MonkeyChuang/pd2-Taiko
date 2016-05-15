@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/Pic">
-        <file>pic/game_bg.jpg</file>
         <file>pic/main_bg.jpg</file>
         <file>pic/main_bg2.jpg</file>
         <file>pic/drum_cover.png</file>
@@ -12,10 +11,14 @@
         <file>pic/3.png</file>
         <file>pic/click_effect_red_left.png</file>
         <file>pic/click_effect_blue_left.png</file>
+        <file>pic/click_effect_blue_right.png</file>
+        <file>pic/click_effect_red_right.png</file>
+        <file>pic/game_bg.jpg</file>
     </qresource>
     <qresource prefix="/Sound">
         <file>sound/readygo.wav</file>
         <file>sound/blue.wav</file>
         <file>sound/red.wav</file>
+        <file>sound/gameover.wav</file>
     </qresource>
 </RCC>

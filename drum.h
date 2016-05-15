@@ -12,7 +12,6 @@ public:
     void drumInitiate(int drum_type);       //d_type = 0,1,2,3
     void ReadyToGo();
     int drumT;
-
 private:
     int start_t;
     QPixmap drum_pic;
